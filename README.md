@@ -14,9 +14,9 @@ The purpose of this project was to use Python to train a RandomForestRegressor m
   * flask
   
 ## Installing
-Head over to [Python.org](https://www.python.org/) to download the latest version of Python if you haven't already. Make sure to enable pip in  `Optional Features` when installing. After installing, head over to Advanced System Settings -> Environment Variables and add Python into PATH. Open the command prompt (cmd) and run the command `pip3 install youtube-dl`.
+Head over to [Python.org](https://www.python.org/) to download the latest version of Python if you haven't already. Make sure to enable pip in  `Optional Features` when installing. After installing, head over to Advanced System Settings -> Environment Variables and add Python into PATH.
 
-Install all necessary modular components using `pip install <module>`
+Install all necessary modular components using `pip install <module>` in the terminal (command prompt).
 
 Download this project folder, which will contain both `current.joblib` and `simulation.joblib` saved training models, `FireData.csv`, `Calculations.py`, and `api.py`. 
 
