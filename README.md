@@ -6,8 +6,12 @@ The purpose of this project was to use Python to train a RandomForestRegressor m
 
 ## Prequisites
   * Python
-  * ffmpeg
-  * youtube-dl
+  * sklearn
+  * joblib
+  * numpy
+  * pandas
+  * json
+  * flask
   
 ## Installing
 Head over to [Python.org](https://www.python.org/) to download the latest version of Python if you haven't already. Make sure to enable pip in  `Optional Features` when installing. After installing, head over to Advanced System Settings -> Environment Variables and add Python into PATH. Open the command prompt (cmd) and run the command `pip3 install youtube-dl`.
