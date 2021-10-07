@@ -4,7 +4,7 @@ Parcipitating in the NASA Space Apps challenge (October 3-4) Spot That Fire v3.0
 ## Getting Started
 The purpose of this project was to use Python to train a RandomForestRegressor model with data from `FireData.csv.`Currently the data collected in the model is small and limited so the predictions are not necessarily accurate. After training the model, the model is then used to estimate the cost of wildfires based on given parameters from an interactive web application. 
 
-## Prequisites
+## Prerequisites
   * Python
   * joblib
   * numpy
